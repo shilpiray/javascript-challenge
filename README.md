@@ -1,1 +1,1 @@
-#### UFO-sightings-JavaScript-and-DOM-Manipulation
+# UFO-sightings-JavaScript-and-DOM-Manipulation
